@@ -51,6 +51,5 @@ int main(int argc, char const *argv[])
     {
         cout << "Invalid input.";
     }
-
     return 0;
 }
